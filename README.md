@@ -14,11 +14,11 @@ Data cleaning is one of the most critical steps in the data analytics workflow b
 
 ### 📁 Raw Dataset
 
-![Raw Dataset](./screenshots/messy-data.jpg)
+![Raw Dataset](./screenshots/cleaned-data.jpg)
 
 ### ✅ Cleaned Dataset
 
-![Cleaned Dataset](./screenshots/cleaned-data.jpg)
+![Cleaned Dataset](./screenshots/messy-data.jpg)
 ---
 
 # 🎯 Project Objective
