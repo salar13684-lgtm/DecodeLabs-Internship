@@ -64,6 +64,7 @@ Aspiring Data Analyst | Financial Technology Student | Excel Analyst
 
 - LinkedIn: www.linkedin.com/in/salar-shah-7bb2683a2
 - GitHub: https://github.com/salar13684-lgtm
+- Portfolio: finance-tech-portfolio.vercel.app
 
 ---
 
